@@ -14,5 +14,8 @@ Git Tags
 
 npx semantic-release-cli setup 
 
+```
+npx husky install
+```
 
-npx commitizen / husky feels better 
+npm install --save-dev @commitlint/cli
