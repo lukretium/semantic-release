@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/lukretium/semantic-release/compare/v1.0.0...v1.1.0) (2023-09-18)
+
+
+### Features
+
+* **my-ticket-nr:** all has changed ([3acccd4](https://github.com/lukretium/semantic-release/commit/3acccd497a23afdea21007dadc2b17703814b914))
+
 # 1.0.0 (2023-09-18)
 
 
