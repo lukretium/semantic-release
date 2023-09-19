@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/lukretium/semantic-release/compare/v1.1.0...v1.1.1) (2023-09-19)
+
+
+### Bug Fixes
+
+* remove action part ([600073b](https://github.com/lukretium/semantic-release/commit/600073bebb694f70cd14b11b0523e1bb8235d3cd))
+
 # [1.1.0](https://github.com/lukretium/semantic-release/compare/v1.0.0...v1.1.0) (2023-09-18)
 
 
